@@ -1,0 +1,2 @@
+# Ignore LibreOffice files and only keep .csv
+*.ods
